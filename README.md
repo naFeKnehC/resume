@@ -1,1 +1,1 @@
-# [个人简历查看点击此处](https://github.com/naFeKnehC/resume/blob/main/readme/index.md)
+# [个人简历查看点击此处](https://github.com/naFeKnehC/resume/blob/main/index.md)
