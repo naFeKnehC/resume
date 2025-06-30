@@ -2,7 +2,7 @@
 
 https://github.com/naFeKnehC/resume
 
-# 个人信息
+### 个人信息
 
 - 陈克凡/男/1998
 - 本科/武汉工程大学邮电与信息工程学院
@@ -10,12 +10,11 @@ https://github.com/naFeKnehC/resume
 - 手机号: 13277067020
 - 邮箱: 1037279223@qq.com
 
-# 个人优势
+### 个人优势
 
 - 负责组员代码 cr，千行bug率低于0.5
 - 基于 antd 的组件二次封装，复杂业务组件封装，代码量减半
-- react 深入理解与使用
-  - 简化版 react github [https://github.com/naFeKnehC/mini-react](https://github.com/naFeKnehC/mini-react)
+- react 深入理解与使用，简单实现 gihub：[https://github.com/naFeKnehC/mini-react](https://github.com/naFeKnehC/mini-react)
 - 业务理解/合作能力出色，在职期间负责多名应届生成长
 - 良好的业务代码拆分/预判能力，迭代工时缩减
 - 独立负责百万级别流量的支付宝小程序
